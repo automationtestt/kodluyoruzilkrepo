@@ -25,4 +25,4 @@ code .
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
 # Licens
-[MIT]([LICENSE](https://github.com/automationtestt/kodluyoruzilkrepo/blob/f36858cac1dd7b63096c83426d9f03de1771f076/LICENSE))
+[MIT](https://github.com/automationtestt/kodluyoruzilkrepo/blob/f36858cac1dd7b63096c83426d9f03de1771f076/LICENSE)
